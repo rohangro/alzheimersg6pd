@@ -10,10 +10,17 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
+<<<<<<< HEAD
 NotebookDataLength[    329305,       5555]
 NotebookOptionsPosition[    327446,       5490]
 NotebookOutlinePosition[    327805,       5506]
 CellTagsIndexPosition[    327762,       5503]
+=======
+NotebookDataLength[    329221,       5552]
+NotebookOptionsPosition[    327373,       5488]
+NotebookOutlinePosition[    327720,       5503]
+CellTagsIndexPosition[    327677,       5500]
+>>>>>>> origin/master
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -28,10 +35,9 @@ Cell["Tony Fung, Rohan Grover A12337334", "Text",
  CellChangeTimes->{{3.6982697471517897`*^9, 3.698269749910111*^9}, {
   3.69827065420125*^9, 3.6982706582517*^9}}],
 
-Cell[BoxData[
- RowBox[{"\[IndentingNewLine]", 
-  RowBox[{"asdfghjkl", ";"}]}]], "Input",
- CellChangeTimes->{{3.6982703632788987`*^9, 3.698270364821045*^9}}],
+Cell[BoxData["\[IndentingNewLine]"], "Input",
+ CellChangeTimes->{{3.6982703632788987`*^9, 3.698270364821045*^9}, 
+   3.698270594710136*^9}],
 
 Cell[CellGroupData[{
 
@@ -5506,6 +5512,7 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
+<<<<<<< HEAD
 Cell[579, 22, 151, 2, 92, "Title"],
 Cell[733, 26, 163, 2, 30, "Text"],
 Cell[899, 30, 156, 3, 54, "Input"],
@@ -5556,6 +5563,58 @@ Cell[326578, 5469, 200, 3, 50, "Section"],
 Cell[326781, 5474, 201, 3, 50, "Section"],
 Cell[326985, 5479, 248, 3, 50, "Section"],
 Cell[327236, 5484, 194, 3, 50, "Section"]
+=======
+Cell[579, 22, 151, 2, 101, "Title"],
+Cell[733, 26, 107, 1, 30, "Text"],
+Cell[843, 29, 139, 2, 50, "Input"],
+Cell[CellGroupData[{
+Cell[1007, 35, 101, 1, 72, "Chapter"],
+Cell[1111, 38, 3956, 62, 543, "Text"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[5104, 105, 214, 3, 72, "Chapter"],
+Cell[5321, 110, 1369, 23, 201, "Text"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6727, 138, 154, 2, 72, "Chapter"],
+Cell[6884, 142, 3358, 59, 657, "Text"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[10279, 206, 201, 3, 65, "Chapter"],
+Cell[10483, 211, 2021, 31, 220, "Text"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[12541, 247, 143, 2, 65, "Chapter"],
+Cell[12687, 251, 1065, 22, 117, "Input"],
+Cell[13755, 275, 1644, 46, 159, "Input"],
+Cell[15402, 323, 198, 4, 30, "Text"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[15637, 332, 151, 2, 65, "Chapter"],
+Cell[15791, 336, 307596, 5051, 516, 162199, 2666, "CachedBoxData", "BoxData", \
+"Input"],
+Cell[323390, 5389, 848, 14, 106, "Text"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[324275, 5408, 99, 1, 65, "Chapter"],
+Cell[324377, 5411, 596, 10, 49, "Text"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[325010, 5426, 168, 2, 65, "Chapter"],
+Cell[325181, 5430, 223, 5, 30, "Text"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[325453, 5441, 95, 1, 92, "Title"],
+Cell[325551, 5444, 388, 7, 49, "Text"],
+Cell[325942, 5453, 199, 3, 64, "Section"],
+Cell[326144, 5458, 154, 2, 50, "Section"],
+Cell[326301, 5462, 201, 3, 50, "Section"],
+Cell[326505, 5467, 200, 3, 50, "Section"],
+Cell[326708, 5472, 201, 3, 50, "Section"],
+Cell[326912, 5477, 248, 3, 50, "Section"],
+Cell[327163, 5482, 194, 3, 50, "Section"]
+>>>>>>> origin/master
 }, Open  ]]
 }
 ]
