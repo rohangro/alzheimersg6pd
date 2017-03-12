@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    183841,       3168]
-NotebookOptionsPosition[    182033,       3104]
-NotebookOutlinePosition[    182392,       3120]
-CellTagsIndexPosition[    182349,       3117]
+NotebookDataLength[    183898,       3169]
+NotebookOptionsPosition[    182089,       3105]
+NotebookOutlinePosition[    182448,       3121]
+CellTagsIndexPosition[    182405,       3118]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -34,8 +34,9 @@ Cell[BoxData["\[IndentingNewLine]"], "Input",
 
 Cell[CellGroupData[{
 
-Cell["Instructions", "Chapter",
- CellChangeTimes->{{3.6345261120861692`*^9, 3.6345261141669893`*^9}}],
+Cell["Instructions Follow", "Chapter",
+ CellChangeTimes->{{3.6345261120861692`*^9, 3.6345261141669893`*^9}, {
+  3.6982719372766542`*^9, 3.6982719390351*^9}}],
 
 Cell[TextData[{
  "For this project, you will be required to work in pairs in order to achieve \
@@ -3124,55 +3125,53 @@ Cell[580, 22, 151, 2, 92, "Title"],
 Cell[734, 26, 163, 2, 30, "Text"],
 Cell[900, 30, 139, 2, 54, "Input"],
 Cell[CellGroupData[{
-Cell[1064, 36, 101, 1, 65, "Chapter"],
-Cell[1168, 39, 3956, 62, 524, "Text"]
+Cell[1064, 36, 157, 2, 65, "Chapter"],
+Cell[1224, 40, 3956, 62, 524, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[5161, 106, 214, 3, 65, "Chapter"],
-Cell[5378, 111, 1369, 23, 201, "Text"]
+Cell[5217, 107, 214, 3, 65, "Chapter"],
+Cell[5434, 112, 1369, 23, 201, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6784, 139, 154, 2, 65, "Chapter"],
-Cell[6941, 143, 3358, 59, 70, "Text"]
+Cell[6840, 140, 154, 2, 65, "Chapter"],
+Cell[6997, 144, 3358, 59, 657, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[10336, 207, 201, 3, 70, "Chapter"],
-Cell[10540, 212, 2021, 31, 70, "Text"]
+Cell[10392, 208, 201, 3, 70, "Chapter"],
+Cell[10596, 213, 2021, 31, 70, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[12598, 248, 143, 2, 70, "Chapter"],
-Cell[12744, 252, 1065, 22, 70, "Input"],
-Cell[13812, 276, 1644, 46, 70, "Input"],
-Cell[15459, 324, 198, 4, 70, "Text"]
+Cell[12654, 249, 143, 2, 70, "Chapter"],
+Cell[12800, 253, 1065, 22, 70, "Input"],
+Cell[13868, 277, 1644, 46, 70, "Input"],
+Cell[15515, 325, 198, 4, 70, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[15694, 333, 151, 2, 70, "Chapter"],
-Cell[15848, 337, 162199, 2666, 70, "Input"],
-Cell[178050, 3005, 848, 14, 70, "Text"]
+Cell[15750, 334, 151, 2, 70, "Chapter"],
+Cell[15904, 338, 162199, 2666, 70, "Input"],
+Cell[178106, 3006, 848, 14, 70, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[178935, 3024, 99, 1, 70, "Chapter"],
-Cell[179037, 3027, 596, 10, 70, "Text"]
+Cell[178991, 3025, 99, 1, 70, "Chapter"],
+Cell[179093, 3028, 596, 10, 70, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[179670, 3042, 168, 2, 70, "Chapter"],
-Cell[179841, 3046, 223, 5, 70, "Text"]
+Cell[179726, 3043, 168, 2, 70, "Chapter"],
+Cell[179897, 3047, 223, 5, 70, "Text"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[180113, 3057, 95, 1, 70, "Title"],
-Cell[180211, 3060, 388, 7, 70, "Text"],
-Cell[180602, 3069, 199, 3, 70, "Section"],
-Cell[180804, 3074, 154, 2, 70, "Section"],
-Cell[180961, 3078, 201, 3, 70, "Section"],
-Cell[181165, 3083, 200, 3, 70, "Section"],
-Cell[181368, 3088, 201, 3, 70, "Section"],
-Cell[181572, 3093, 248, 3, 70, "Section"],
-Cell[181823, 3098, 194, 3, 70, "Section"]
+Cell[180169, 3058, 95, 1, 70, "Title"],
+Cell[180267, 3061, 388, 7, 70, "Text"],
+Cell[180658, 3070, 199, 3, 70, "Section"],
+Cell[180860, 3075, 154, 2, 70, "Section"],
+Cell[181017, 3079, 201, 3, 70, "Section"],
+Cell[181221, 3084, 200, 3, 70, "Section"],
+Cell[181424, 3089, 201, 3, 70, "Section"],
+Cell[181628, 3094, 248, 3, 70, "Section"],
+Cell[181879, 3099, 194, 3, 70, "Section"]
 }, Open  ]]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
