@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[    329238,       5553]
-NotebookOptionsPosition[    327390,       5489]
-NotebookOutlinePosition[    327737,       5504]
-CellTagsIndexPosition[    327694,       5501]
+NotebookDataLength[    329305,       5555]
+NotebookOptionsPosition[    327446,       5490]
+NotebookOutlinePosition[    327805,       5506]
+CellTagsIndexPosition[    327762,       5503]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -24,8 +24,9 @@ Cell["Final Project", "Title",
  CellChangeTimes->{{3.6345229572814693`*^9, 3.6345229616407194`*^9}, {
   3.634526103112073*^9, 3.6345261050068913`*^9}}],
 
-Cell["Tony Fung, Rohan Grover", "Text",
- CellChangeTimes->{{3.6982697471517897`*^9, 3.698269749910111*^9}}],
+Cell["Tony Fung, Rohan Grover A12337334", "Text",
+ CellChangeTimes->{{3.6982697471517897`*^9, 3.698269749910111*^9}, {
+  3.69827065420125*^9, 3.6982706582517*^9}}],
 
 Cell[BoxData[
  RowBox[{"\[IndentingNewLine]", 
@@ -5489,7 +5490,8 @@ Cell["Appendix", "Section",
 },
 WindowSize->{840, 1001},
 WindowMargins->{{0, Automatic}, {Automatic, -1}},
-FrontEndVersion->"11.0 for Microsoft Windows (64-bit) (September 21, 2016)",
+FrontEndVersion->"11.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (September \
+21, 2016)",
 StyleDefinitions->"Default.nb"
 ]
 (* End of Notebook Content *)
@@ -5504,56 +5506,56 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[579, 22, 151, 2, 101, "Title"],
-Cell[733, 26, 107, 1, 30, "Text"],
-Cell[843, 29, 156, 3, 50, "Input"],
+Cell[579, 22, 151, 2, 92, "Title"],
+Cell[733, 26, 163, 2, 30, "Text"],
+Cell[899, 30, 156, 3, 54, "Input"],
 Cell[CellGroupData[{
-Cell[1024, 36, 101, 1, 72, "Chapter"],
-Cell[1128, 39, 3956, 62, 543, "Text"]
+Cell[1080, 37, 101, 1, 65, "Chapter"],
+Cell[1184, 40, 3956, 62, 524, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[5121, 106, 214, 3, 72, "Chapter"],
-Cell[5338, 111, 1369, 23, 201, "Text"]
+Cell[5177, 107, 214, 3, 65, "Chapter"],
+Cell[5394, 112, 1369, 23, 201, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6744, 139, 154, 2, 72, "Chapter"],
-Cell[6901, 143, 3358, 59, 657, "Text"]
+Cell[6800, 140, 154, 2, 65, "Chapter"],
+Cell[6957, 144, 3358, 59, 657, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[10296, 207, 201, 3, 65, "Chapter"],
-Cell[10500, 212, 2021, 31, 220, "Text"]
+Cell[10352, 208, 201, 3, 65, "Chapter"],
+Cell[10556, 213, 2021, 31, 220, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[12558, 248, 143, 2, 65, "Chapter"],
-Cell[12704, 252, 1065, 22, 117, "Input"],
-Cell[13772, 276, 1644, 46, 159, "Input"],
-Cell[15419, 324, 198, 4, 30, "Text"]
+Cell[12614, 249, 143, 2, 65, "Chapter"],
+Cell[12760, 253, 1065, 22, 117, "Input"],
+Cell[13828, 277, 1644, 46, 159, "Input"],
+Cell[15475, 325, 198, 4, 30, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[15654, 333, 151, 2, 65, "Chapter"],
-Cell[15808, 337, 307596, 5051, 516, 162199, 2666, "CachedBoxData", "BoxData", \
+Cell[15710, 334, 151, 2, 65, "Chapter"],
+Cell[15864, 338, 307596, 5051, 516, 162199, 2666, "CachedBoxData", "BoxData", \
 "Input"],
-Cell[323407, 5390, 848, 14, 106, "Text"]
+Cell[323463, 5391, 848, 14, 106, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[324292, 5409, 99, 1, 65, "Chapter"],
-Cell[324394, 5412, 596, 10, 49, "Text"]
+Cell[324348, 5410, 99, 1, 65, "Chapter"],
+Cell[324450, 5413, 596, 10, 49, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[325027, 5427, 168, 2, 65, "Chapter"],
-Cell[325198, 5431, 223, 5, 30, "Text"]
+Cell[325083, 5428, 168, 2, 65, "Chapter"],
+Cell[325254, 5432, 223, 5, 30, "Text"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[325470, 5442, 95, 1, 92, "Title"],
-Cell[325568, 5445, 388, 7, 49, "Text"],
-Cell[325959, 5454, 199, 3, 64, "Section"],
-Cell[326161, 5459, 154, 2, 50, "Section"],
-Cell[326318, 5463, 201, 3, 50, "Section"],
-Cell[326522, 5468, 200, 3, 50, "Section"],
-Cell[326725, 5473, 201, 3, 50, "Section"],
-Cell[326929, 5478, 248, 3, 50, "Section"],
-Cell[327180, 5483, 194, 3, 50, "Section"]
+Cell[325526, 5443, 95, 1, 92, "Title"],
+Cell[325624, 5446, 388, 7, 49, "Text"],
+Cell[326015, 5455, 199, 3, 64, "Section"],
+Cell[326217, 5460, 154, 2, 50, "Section"],
+Cell[326374, 5464, 201, 3, 50, "Section"],
+Cell[326578, 5469, 200, 3, 50, "Section"],
+Cell[326781, 5474, 201, 3, 50, "Section"],
+Cell[326985, 5479, 248, 3, 50, "Section"],
+Cell[327236, 5484, 194, 3, 50, "Section"]
 }, Open  ]]
 }
 ]
